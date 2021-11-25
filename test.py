@@ -6,5 +6,7 @@ app = FastAPI()
 def home():
     return {"Data" :  "Testing"}
 
-
+@app.get("/about")
+def about():
+    return {"Data": "About"}
 
