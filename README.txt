@@ -6,6 +6,9 @@ Game String is sent to API
 
 
 API
+Need a sgf parser
+Handle http response when invalid
+Remove gaame feature?
 
 
 
